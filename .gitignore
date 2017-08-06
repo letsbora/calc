@@ -1,0 +1,16 @@
+# Netbeans project
+nbproject
+
+# Dependency directories
+node_modules
+
+# Optional npm cache directory
+.npm
+
+npm-debug.log
+
+# Optional REPL history
+.node_repl_history
+
+# Reports
+test-reports.xml
